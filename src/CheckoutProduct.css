@@ -2,7 +2,7 @@
     display: flex;
     margin-top: 20px;
     margin-bottom: 20px;
-    padding: 10px;
+    padding: 12px;
 
 }
 
@@ -13,7 +13,7 @@
 }
 
 .checkoutProduct__info{
-    padding-left: 10px;
+    padding-left: 12px;
 }
 
 .checkoutProduct__rating{
@@ -40,7 +40,7 @@
     }
     .checkoutProduct__button{
         font-size: .8rem;
-        margin-top: 20px;
+        margin-top: 18px;
     }
     .checkoutProduct__title{
         font-size: .9rem;
